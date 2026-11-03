@@ -2,7 +2,7 @@ import React from 'react'
 import { Routes, Link, Route } from "react-router-dom";
 import {Layout,Typography,Space} from 'antd'
 
-import { Navbar } from './components/INDEX.js'
+import { Navbar } from './components'
 
 const App = () => {
   return (
