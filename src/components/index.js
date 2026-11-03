@@ -1,4 +1,5 @@
-import {default as Navbar} from './Navbar'
+import {default as Navbar} from './Navbar/Navbar.jsx'
 
-export { Navbar
+export {
+      Navbar
 }
